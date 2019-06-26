@@ -23,7 +23,7 @@ self.addEventListener('install', function(event) {
           'css/style.css',
           'css/responsive.css',
           'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css',
-          'http://fonts.googleapis.com/css?family=Open+Sans:300,400,700',
+          'https://fonts.googleapis.com/css?family=Open+Sans:300,400,700',
 
           'images/social/dribbble.png',
           'images/social/facebook.png',
